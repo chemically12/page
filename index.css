@@ -1,0 +1,72 @@
+body{
+    background-color:#C9EEFF ;
+    position: relative;
+    font-size: 100%;
+    margin: 0;
+    text-align: center;
+}
+img{
+    float: left;
+}
+.plan{
+    text-align:center;
+}
+.change{
+    float: right;
+    padding-bottom: 20px;
+    color: blue;
+
+}
+.first-section{
+    margin: 50px auto 0 auto;
+    width: 30%;
+}
+.hero-img{
+ border-radius: 20px 20px 0 0;
+ width: 100%;
+}
+.second-section{
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    border-radius: 0 0 10px 10px;
+}
+h1{
+    margin-top:-10px;
+    padding-top: 100px;
+    font-size: 150%;
+    font-weight: bold;
+
+}
+
+.write-up{
+    width: 60%;
+    margin: auto;
+    line-height: 1.5;
+}
+.music-icon{
+ background-color: aquamarine; 
+ border-radius: 20px;  
+ width: 70%;
+ margin: 30px auto 30px auto;
+ padding: 20px;
+}
+.btn{
+    background-color: rgb(149, 149, 241);
+    border-radius: 5px;
+    width: 80%;
+    border: none;
+    color: white;
+    padding:10px 0 10px 0 ;
+}
+button{
+    background-color: white;
+    border-radius: 5px;
+    width: 80%;
+    border: none;
+    color:black;
+    padding:10px 0 10px 0 ;
+    margin-bottom: 10px;
+}
+
+
